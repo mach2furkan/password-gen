@@ -61,5 +61,5 @@ This project uses standard C++ libraries, so no additional dependencies are requ
 This project is open-source and free to use under the MIT License.
 
 ## Author
-Developed by [Your Name].
+Developed by FURKAN ASKIN 
 
